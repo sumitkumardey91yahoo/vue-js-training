@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import parent from './components/photoCom/parent.vue'
+import parent from './parent.vue'
 
 export default {
   data() {
